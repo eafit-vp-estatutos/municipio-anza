@@ -1,0 +1,282 @@
+[
+  {
+    "objectID": "autores_about.html",
+    "href": "autores_about.html",
+    "title": "Autores",
+    "section": "",
+    "text": "Equipo Valor Público — EAFIT\nEste sitio presenta a los autores y sus roles."
+  },
+  {
+    "objectID": "autores_about.html#contribuciones-credit",
+    "href": "autores_about.html#contribuciones-credit",
+    "title": "Autores",
+    "section": "Contribuciones (CRediT)",
+    "text": "Contribuciones (CRediT)\n\nUn ✓ indica responsabilidad principal; un • contribución de apoyo; - no aplica.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRol (CRediT)\nJuan Carlos\nMonica\nLaura\nEugenio\nYeison\nCarolina\nGuillermo\nDaniel\nHarold\n\n\n\n\nConceptualización\n✓\n✓\n✓\n-\n-\n✓\n✓\n✓\n✓\n\n\nCuraduría de datos\n✓\n✓\n-\n✓\n✓\n-\n•\n-\n-\n\n\nMetodología\n✓\n✓\n-\n-\n•\n-\n✓\n-\n-\n\n\nSoftware / reproducibilidad\n✓\n✓\n-\n-\n•\n-\n•\n-\n-\n\n\nValidación\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n\n\nAnálisis formal\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n\n\nVisualización\n✓\n✓\n-\n✓\n✓\n✓\n•\n-\n-\n\n\nRedacción – borrador original\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nRedacción – revisión y edición\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nAdministración del proyecto\n✓\n✓\n-\n-\n•\n•\n•\n-\n-\n\n\nSupervisión\n✓\n•\n-\n-\n•\n•\n•\n-\n-"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidos",
+    "section": "",
+    "text": "Bienvenid@s a los resultados del estudio sobre estatutos tributarios óptimos para el municipio de Anza. Este proyecto ha sido liderado por la Gobernación de Antioquia y el Centro Valor Público de la Universidad EAFIT.\nEn esta página encontrara los principales resultados del ejercicios. Para mayor información no dude en comunicarse con el equipo de trabajo.\nEsperamos que los resultados aquí presentados sean insumos para la toma de desciones basada en la evidencia para la transformación del departamento y la consolidación de la independencia fiscal."
+  },
+  {
+    "objectID": "analisis_r1.html",
+    "href": "analisis_r1.html",
+    "title": "Información catastral de Anza",
+    "section": "",
+    "text": "A continuación se presenta las principales tendencias de las variables catastrales para el municipio de Anza de 2020 a 2025.\nPara ver más análisis agregados y los detalles metodológicos puede visitar este enlace (ir).\n\n1 Evolución de las áreas catastrales\n   \n\n\n2 Evolución de las áreas catastrales\n\n\n\n3 Evolución de los avalúos\n  \n\n\n4 Dinámicas de predios\nCon el fin - P1 se refieren a predios que han estado presentes desde la vigencia 2024 a 2025 - P2 son predios nuevos que fueron ingresados durante la última actualización"
+  },
+  {
+    "objectID": "optimo_metodologia.html",
+    "href": "optimo_metodologia.html",
+    "title": "Metodología selección estatuto óptimo - Anza",
+    "section": "",
+    "text": "La selección del estatuto óptimo se realiza con una combinación de factores que busca\nLos pasos para la selección 1. Análisis y estandarización de la información catastral R1 2. Transcripción y análisis del estatuto vigente 3. Análisis de la información de facturación con fin de determinar las probabilidades de pago 4. Uso de modelos estadísticos para la modelación 5. Modelo de\n\n1 Criterios de estatutos óptimos\nBasado en la mejores prácticas internacionales y el análisis de las estructuras de los estatutos, el equipo a desarrollado los criterios bases que debería tener una tabla de milaje completa, sencilla y con los elementos básicos para volver el impuesto predial un instrumento de planeación territoiral\npara optimizar el diseño de las tablas de milaje\n\nProgresividad entendible. Las tarifas suben de forma ordenada al pasar de usos residenciales / productivos básicos a usos más intensivos (incluyendo ahora Institucional y Vulnerables con un tratamiento estable) y de avalúos bajos a altos en los grupos segmentados. La idea es que quien tiene más capacidad paga más, sin saltos bruscos.\nCumplimiento de reglas legales. Las seis tarifas centrales de cada zona se mantienen dentro de una franja legal entre 5 y 16 por mil. Solo los dos extremos pueden salirse de esa franja:\n\nHabitacional–Bajos (el más bajo), que puede estar por debajo, y\nEspeculativo–Altos (el más alto), que puede estar por encima hasta el tope que defina el municipio.\n\nClaridad para decidir. Separar los extremos del resto nos permite afinar la protección a hogares de menor avalúo y, al tiempo, desincentivar prácticas especulativas cuando el municipio lo considere pertinente.\nTarifas enteras y ordenadas. Las cifras finales son números enteros, fáciles de comunicar y comparar, manteniendo el orden progresivo."
+  },
+  {
+    "objectID": "optimo_propuesta.html",
+    "href": "optimo_propuesta.html",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "",
+    "text": "La presente propuesta contiene los elementos técnicos y normativos para la implementación del estatuto tributario óptimo para el municipio de Anza (código DANE: 05044).\nEsta propuesta se fundamenta en el análisis técnico realizado y la metodología aplicada para la optimización del impuesto predial."
+  },
+  {
+    "objectID": "optimo_propuesta.html#archivos-excel-con-datos-técnicos",
+    "href": "optimo_propuesta.html#archivos-excel-con-datos-técnicos",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "2.1 Archivos Excel con Datos Técnicos",
+    "text": "2.1 Archivos Excel con Datos Técnicos\nLos siguientes archivos contienen los datos técnicos, cálculos y escenarios utilizados para la elaboración de la propuesta:\n\n\n\n\n\n\nTip📊 Descargas Disponibles\n\n\n\n\n2.1.1 Datos Principales\n\n📈 Escenarios Completos - Análisis completo de todos los escenarios evaluados\n🎯 Análisis Tarifario - Estructura de tarifas actual vs. propuesta\n💰 Proyección Recaudo - Estimaciones de recaudo por escenario\n\n\n\n2.1.2 Análisis Complementarios\n\n📋 Resumen Ejecutivo - Síntesis de resultados principales\n🏘️ Análisis por Segmentos - Desglose detallado por segmentos\n📊 Indicadores de Desempeño - Métricas de evaluación\n\n\n\n\n\n\n\nEstado de Archivos de Datos\n\n\n\nArchivo\nEstado\nEnlace\n\n\n\n\nEscenarios Completos\nEscenarios Completos\n✅ Disponible\n[📥 Descargar](excel_exports/05044_escenarios_completos.xlsx)\n\n\nAnálisis Tarifario\nAnálisis Tarifario\n⏳ Procesando\nEn preparación\n\n\nProyección Recaudo\nProyección Recaudo\n⏳ Procesando\nEn preparación\n\n\nResumen Ejecutivo\nResumen Ejecutivo\n⏳ Procesando\nEn preparación\n\n\nAnálisis Segmentos\nAnálisis Segmentos\n⏳ Procesando\nEn preparación\n\n\nIndicadores\nIndicadores\n⏳ Procesando\nEn preparación"
+  },
+  {
+    "objectID": "optimo_propuesta.html#estructura-tarifaria-propuesta",
+    "href": "optimo_propuesta.html#estructura-tarifaria-propuesta",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "3.1 Estructura Tarifaria Propuesta",
+    "text": "3.1 Estructura Tarifaria Propuesta\n\n3.1.1 Tarifa Mínima\nLa tarifa mínima propuesta es de X por mil del avalúo catastral, aplicable a predios de estrato socioeconómico bajo y avalúos menores a $X millones.\n\n\n3.1.2 Tarifa Básica\nPara predios residenciales de estratos medios, la tarifa propuesta es de Y por mil, asegurando progresividad y capacidad de pago.\n\n\n3.1.3 Tarifa Superior\nLos predios de mayor valor (avalúos superiores a $Z millones) tendrían una tarifa de W por mil, maximizando el principio de progresividad."
+  },
+  {
+    "objectID": "optimo_propuesta.html#beneficios-y-descuentos",
+    "href": "optimo_propuesta.html#beneficios-y-descuentos",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "3.2 Beneficios y Descuentos",
+    "text": "3.2 Beneficios y Descuentos\n\n3.2.1 Pronto Pago\nSe propone mantener el descuento por pronto pago del 10% para pagos realizados antes del 30 de abril.\n\n\n3.2.2 Tercera Edad\nDescuento del 25% para adultos mayores de 65 años propietarios de única vivienda de estrato 1 y 2.\n\n\n3.2.3 Predios Rurales\nTarifa diferencial para predios rurales productivos, promoviendo la actividad agropecuaria."
+  },
+  {
+    "objectID": "optimo_propuesta.html#cronograma-de-implementación",
+    "href": "optimo_propuesta.html#cronograma-de-implementación",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "4.1 Cronograma de Implementación",
+    "text": "4.1 Cronograma de Implementación\n\n4.1.1 Fase 1: Preparación (Meses 1-3)\n\nActualización del avalúo catastral\nCapacitación al personal administrativo\nActualización de sistemas de información\n\n\n\n4.1.2 Fase 2: Adopción Normativa (Mes 4)\n\nAprobación del nuevo estatuto tributario\nPublicación y socialización\nPreparación de campañas informativas\n\n\n\n4.1.3 Fase 3: Entrada en Vigencia (Mes 5)\n\nAplicación del nuevo estatuto\nMonitoreo y seguimiento\nAjustes menores si es necesario"
+  },
+  {
+    "objectID": "optimo_propuesta.html#impacto-esperado",
+    "href": "optimo_propuesta.html#impacto-esperado",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "4.2 Impacto Esperado",
+    "text": "4.2 Impacto Esperado\n\n4.2.1 Incremento en Recaudo\nSe estima un incremento del recaudo predial entre 15% y 25% en el primer año de implementación.\n\n\n4.2.2 Mejora en Equidad\nLa nueva estructura tarifaria mejora significativamente la progresividad del impuesto, asegurando que quienes más tienen, más contribuyan.\n\n\n4.2.3 Fortalecimiento Institucional\nLos recursos adicionales permitirán fortalecer la capacidad institucional y mejorar la prestación de servicios públicos."
+  },
+  {
+    "objectID": "optimo_propuesta.html#técnicas",
+    "href": "optimo_propuesta.html#técnicas",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "5.1 Técnicas",
+    "text": "5.1 Técnicas\n\nActualización catastral: Mantener avalúos actualizados mediante actualizaciones anuales\nSistemas de información: Invertir en tecnología para mejorar la gestión tributaria\nCapacitación: Formar al personal en las nuevas normativas y procedimientos"
+  },
+  {
+    "objectID": "optimo_propuesta.html#políticas",
+    "href": "optimo_propuesta.html#políticas",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "5.2 Políticas",
+    "text": "5.2 Políticas\n\nGradualidad: Implementar los cambios de forma gradual para minimizar el impacto\nComunicación: Desarrollar una estrategia comunicacional clara y transparente\nSeguimiento: Establecer indicadores de monitoreo y evaluación"
+  },
+  {
+    "objectID": "optimo_propuesta.html#institucionales",
+    "href": "optimo_propuesta.html#institucionales",
+    "title": "Propuesta Estatuto Óptimo - Anza",
+    "section": "5.3 Institucionales",
+    "text": "5.3 Institucionales\n\nModernización: Actualizar procesos y procedimientos administrativos\nCoordinación: Fortalecer la coordinación entre áreas técnicas y administrativas\nTransparencia: Implementar mecanismos de rendición de cuentas"
+  },
+  {
+    "objectID": "analisis_uso.html",
+    "href": "analisis_uso.html",
+    "title": "Uso del suelo de Anza",
+    "section": "",
+    "text": "El propósito de este análisis es ofrecer una lectura del uso del suelo en el municipio de Anza, con el fin de integrarlo de manera más clara en la planeación del municipio.\nPara ver un análisis detallado de la metodología (ir).\nA continuación se presenta los resultados para el valor promedio de uso y sobreutilización para cada municipio."
+  },
+  {
+    "objectID": "slides.html#agendal",
+    "href": "slides.html#agendal",
+    "title": "Presentación Anza",
+    "section": "Agendal",
+    "text": "Agendal\n\nContexto\nHallazgos\nRecomendaciones"
+  },
+  {
+    "objectID": "analisis_estatutos.html",
+    "href": "analisis_estatutos.html",
+    "title": "Análisis estatuto de Anza",
+    "section": "",
+    "text": "Este proyecto presenta un análisis exhaustivo de los estatutos tributarios del municipio de Para el análisis del municipio de , enfocándose específicamente en la estructura del impuesto predial. El estatuto fue acompañado de un análisis jurídico y de contenido detallado del capítulo de impuestos prediales contenido en sus estatutos de rentas.\nPara el análisis del municipio se tuvieron en cuenta los siguientes estatutos y modificaciones:\nEstatutos Usados para el Estudio\n\n\nmpio\nanio\ntipo\nnumero\nobservaciones\nenlace_pdf\n\n\n\n\nANZÁ\n2020\nESTATUTO\n15\nNA\nNo disponible\nPara ver más análisis agregados y los detalles metodológicos puede visitar este enlace (ir)."
+  },
+  {
+    "objectID": "analisis_estatutos.html#combinaciones-de-criterios-tarifarios",
+    "href": "analisis_estatutos.html#combinaciones-de-criterios-tarifarios",
+    "title": "Análisis estatuto de Anza",
+    "section": "2.1 Combinaciones de criterios tarifarios",
+    "text": "2.1 Combinaciones de criterios tarifarios\nEste gráfico muestra las diferentes combinaciones de criterios utilizados en la estructura tarifaria del municipio:\n\n\n\nCombinaciones de criterios tarifarios\n\n\nDescripción: Visualización de las combinaciones de criterios (avalúo, área, destino, estrato, etc.) utilizadas para determinar las tarifas prediales en Anza .\nInterpretación: Cada combinación representa una regla específica del estatuto tributario. Mayor número de combinaciones indica mayor complejidad normativa."
+  },
+  {
+    "objectID": "analisis_estatutos.html#distribución-de-tarifas",
+    "href": "analisis_estatutos.html#distribución-de-tarifas",
+    "title": "Análisis estatuto de Anza",
+    "section": "2.2 Distribución de tarifas",
+    "text": "2.2 Distribución de tarifas\nLa distribución de tarifas muestra el rango y frecuencia de las diferentes tarifas prediales establecidas:\n\n\n\nDistribución de tarifas prediales\n\n\nDescripción: Histograma que muestra la distribución de las tarifas prediales por mil (‰) establecidas en el estatuto de Anza .\nInterpretación: La forma de la distribución indica si el municipio tiende hacia tarifas uniformes (distribución concentrada) o hacia un esquema más diversificado (distribución dispersa)."
+  },
+  {
+    "objectID": "analisis_estatutos.html#progresividad-por-avalúo",
+    "href": "analisis_estatutos.html#progresividad-por-avalúo",
+    "title": "Análisis estatuto de Anza",
+    "section": "3.1 Progresividad por avalúo",
+    "text": "3.1 Progresividad por avalúo\nEl análisis de progresividad por avalúo evalúa si las tarifas aumentan proporcionalmente con el valor del predio:\n\n\n\nProgresividad por avalúo\n\n\nDescripción: Gráfico ladder que muestra la relación entre rangos de avalúo (en UVT) y las tarifas correspondientes en Anza .\nInterpretación: Una tendencia ascendente consistente indica progresividad, donde predios de mayor valor pagan tarifas proporcionalmente más altas. Escalones horizontales indican tramos con tarifa fija."
+  },
+  {
+    "objectID": "analisis_estatutos.html#progresividad-por-área",
+    "href": "analisis_estatutos.html#progresividad-por-área",
+    "title": "Análisis estatuto de Anza",
+    "section": "3.2 Progresividad por área",
+    "text": "3.2 Progresividad por área\n\n3.2.1 Análisis de progresividad por área (generado dinámicamente)\nNo fue posible generar el análisis de progresividad por área para este municipio. Motivo: Datos de transcripción no disponibles o incompletos."
+  },
+  {
+    "objectID": "analisis_estatutos.html#posición-relativa-en-antioquia",
+    "href": "analisis_estatutos.html#posición-relativa-en-antioquia",
+    "title": "Análisis estatuto de Anza",
+    "section": "4.1 Posición relativa en Antioquia",
+    "text": "4.1 Posición relativa en Antioquia\n\nRanking por complejidad normativa: 33 de 88 municipios\nNúmero de reglas: 1\nClasificación: Complejidad normativa medio-alta"
+  },
+  {
+    "objectID": "analisis_estatutos.html#visualizaciones-del-contexto-departamental",
+    "href": "analisis_estatutos.html#visualizaciones-del-contexto-departamental",
+    "title": "Análisis estatuto de Anza",
+    "section": "4.2 Visualizaciones del contexto departamental",
+    "text": "4.2 Visualizaciones del contexto departamental\n\nTipologías agregadas del departamento\nComplejidad normativa por municipio\nMapa de complejidad normativa\nMapa de tarifas urbanas\nMapa de tarifas rurales"
+  },
+  {
+    "objectID": "analisis_estatutos.html#estatutos-y-documentos-fuente",
+    "href": "analisis_estatutos.html#estatutos-y-documentos-fuente",
+    "title": "Análisis estatuto de Anza",
+    "section": "5.1 Estatutos y documentos fuente",
+    "text": "5.1 Estatutos y documentos fuente\nLos documentos fuente están en proceso de digitalización."
+  },
+  {
+    "objectID": "analisis_estatutos.html#metodología-del-análisis",
+    "href": "analisis_estatutos.html#metodología-del-análisis",
+    "title": "Análisis estatuto de Anza",
+    "section": "5.2 Metodología del análisis",
+    "text": "5.2 Metodología del análisis\nEste análisis forma parte del proyecto de sistematización de estatutos tributarios de Antioquia, que incluye:\n\nTranscripción normativa: Conversión de estatutos físicos a formato digital estructurado\nCategorización: Identificación de criterios tarifarios (avalúo, área, destino, estrato)\nAnálisis de progresividad: Evaluación de la coherencia y equidad del sistema tarifario\nComparación intermunicipal: Benchmarking con otros municipios del departamento\n\nPara más información sobre la metodología completa, consulte el análisis departamental."
+  },
+  {
+    "objectID": "analisis_estatutos.html#dashboard-de-análisis-tributario",
+    "href": "analisis_estatutos.html#dashboard-de-análisis-tributario",
+    "title": "Análisis estatuto de Anza",
+    "section": "6.1 Dashboard de análisis tributario",
+    "text": "6.1 Dashboard de análisis tributario\nEste resumen integra los principales hallazgos del análisis tributario de Anza :\nDashboard visual no disponible para este municipio."
+  },
+  {
+    "objectID": "analisis_estatutos.html#análisis-temporal-de-la-normativa",
+    "href": "analisis_estatutos.html#análisis-temporal-de-la-normativa",
+    "title": "Análisis estatuto de Anza",
+    "section": "7.1 Análisis temporal de la normativa",
+    "text": "7.1 Análisis temporal de la normativa"
+  },
+  {
+    "objectID": "analisis_estatutos.html#tipología-normativa",
+    "href": "analisis_estatutos.html#tipología-normativa",
+    "title": "Análisis estatuto de Anza",
+    "section": "7.2 Tipología normativa",
+    "text": "7.2 Tipología normativa\n\n7.2.1 Distribución por tipo de normativa\n\nInstrumento normativo predominante: ESTATUTO ( 1 registros, 100 %) ## Comparación departamental\nRegistros de este municipio: 1\nPromedio departamental: 11.4\nMediana departamental: 1\nClasificación: Por debajo del promedio departamental ( 91.2 % menos registros)\nPercentil departamental: 70.5 % ( 29.5 % de municipios tienen más registros)"
+  },
+  {
+    "objectID": "analisis_estatutos.html#recomendaciones-de-política-tributaria",
+    "href": "analisis_estatutos.html#recomendaciones-de-política-tributaria",
+    "title": "Análisis estatuto de Anza",
+    "section": "8.1 Recomendaciones de política tributaria",
+    "text": "8.1 Recomendaciones de política tributaria\nBasándose en el análisis comparativo, se sugieren las siguientes recomendaciones:\n\n8.1.1 Optimización del esquema actual (Complejidad media)\n\nEficiencia: Evaluar la efectividad del esquema actual en términos de recaudo y equidad\nActualización periódica: Establecer cronogramas regulares de revisión normativa\nMonitoreo: Implementar indicadores de seguimiento a la aplicación de tarifas\nParticipación: Involucrar a la ciudadanía en procesos de actualización normativa\n\n\n\n8.1.2 Recomendaciones generales\n\nTransparencia: Publicar de manera clara y accesible todas las tarifas vigentes\nTecnología: Aprovechar herramientas digitales para mejorar la gestión tributaria\nEquidad: Evaluar periódicamente el impacto distributivo del sistema tarifario\nCoordinación: Mantener coherencia con las políticas tributarias departamentales"
+  },
+  {
+    "objectID": "optimo_analisis.html",
+    "href": "optimo_analisis.html",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "",
+    "text": "El presente análisis presenta los resultados de la estimación de estatutos óptimos para el municipio de Anza (código DANE: 05044).\nLos estatutos óptimos buscan maximizar el recaudo del impuesto predial manteniendo principios de equidad, progresividad y sostenibilidad fiscal, considerando las características específicas del municipio y su capacidad administrativa.\nPara ver más detalles metodológicos puede visitar la sección de metodología y para las propuestas específicas consulte la sección de propuestas."
+  },
+  {
+    "objectID": "optimo_analisis.html#estructura-de-tarifas-promedio",
+    "href": "optimo_analisis.html#estructura-de-tarifas-promedio",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "3.1 Estructura de Tarifas Promedio",
+    "text": "3.1 Estructura de Tarifas Promedio\nEl siguiente gráfico muestra la comparación entre las tarifas actuales y las tarifas óptimas propuestas:\n\n\n\nTarifas Promedio"
+  },
+  {
+    "objectID": "optimo_analisis.html#tarifas-por-segmento",
+    "href": "optimo_analisis.html#tarifas-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "3.2 Tarifas por Segmento",
+    "text": "3.2 Tarifas por Segmento\nLa segmentación permite aplicar tarifas diferenciadas según las características de los predios:\n\n\n\nTarifas por Segmento"
+  },
+  {
+    "objectID": "optimo_analisis.html#mapa-de-calor-de-tarifas",
+    "href": "optimo_analisis.html#mapa-de-calor-de-tarifas",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "3.3 Mapa de Calor de Tarifas",
+    "text": "3.3 Mapa de Calor de Tarifas\nVisualización de la distribución de tarifas por segmento y estrato:\n\n\n\nMapa de Calor Tarifas"
+  },
+  {
+    "objectID": "optimo_analisis.html#recaudo-por-segmento",
+    "href": "optimo_analisis.html#recaudo-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "4.1 Recaudo por Segmento",
+    "text": "4.1 Recaudo por Segmento\nComparación del recaudo proyectado entre el estatuto actual y el propuesto:\n\n\n\nRecaudo por Segmento"
+  },
+  {
+    "objectID": "optimo_analisis.html#recaudo-por-nivel",
+    "href": "optimo_analisis.html#recaudo-por-nivel",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "4.2 Recaudo por Nivel",
+    "text": "4.2 Recaudo por Nivel\nDistribución del recaudo según niveles de avalúo catastral:\n\n\n\nRecaudo por Nivel"
+  },
+  {
+    "objectID": "optimo_analisis.html#contribución-al-recaudo-por-segmento",
+    "href": "optimo_analisis.html#contribución-al-recaudo-por-segmento",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "4.3 Contribución al Recaudo por Segmento",
+    "text": "4.3 Contribución al Recaudo por Segmento\nAnálisis de la participación de cada segmento en el recaudo total:\n\n\n\nContribución Recaudo"
+  },
+  {
+    "objectID": "optimo_analisis.html#ratios-por-nivel",
+    "href": "optimo_analisis.html#ratios-por-nivel",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "5.1 Ratios por Nivel",
+    "text": "5.1 Ratios por Nivel\nAnálisis de los ratios de tarifa efectiva por nivel de avalúo:\n\n\n\nRatios por Nivel"
+  },
+  {
+    "objectID": "optimo_analisis.html#radar-de-desempeño",
+    "href": "optimo_analisis.html#radar-de-desempeño",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "5.2 Radar de Desempeño",
+    "text": "5.2 Radar de Desempeño\nEvaluación multidimensional del desempeño del estatuto propuesto:\n\n\n\nRadar Desempeño"
+  },
+  {
+    "objectID": "optimo_analisis.html#resumen-de-escenarios",
+    "href": "optimo_analisis.html#resumen-de-escenarios",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "6.1 Resumen de Escenarios",
+    "text": "6.1 Resumen de Escenarios\n\n\n\nResumen de Escenarios Evaluados\n\n\nnombre_nivel\nscenario_id\nratio_real_25\nmejora_pct\ncobertura_tarifa_esc\ntarifa_prom_esc\nrecaudo_millones\n\n\n\n\nAgresivo\n147\n1.2\n20.0\n100\n9.77\n13.7\n\n\nModerado\n2079\n1.1\n10.0\n100\n9.31\n12.5\n\n\nConservador\n170\n1.0\n0.3\n100\n8.51\n11.4"
+  },
+  {
+    "objectID": "optimo_analisis.html#análisis-detallado-por-segmentos",
+    "href": "optimo_analisis.html#análisis-detallado-por-segmentos",
+    "title": "Análisis de Estatutos Óptimos - Anza",
+    "section": "6.2 Análisis Detallado por Segmentos",
+    "text": "6.2 Análisis Detallado por Segmentos\n\n\n\nAnálisis Detallado por Segmentos\n\n\nnombre_nivel\nsegmento_completo\nscenario_id\nn_predios\ntarifa_prom_esc\nrecaudo_tot_esc\nshare_recaudo_segmento\ncobertura_tarifa_esc\nrecaudo_millones\nshare_recaudo_pct\n\n\n\n\nAgresivo\nEconómico - Altos\n147\n1376\n13.00\n10431517.41\n0.764\n100\n10.43\n76.4\n\n\nAgresivo\nInstitucional\n147\n29\n11.38\n2134403.46\n0.156\n100\n2.13\n15.6\n\n\nAgresivo\nVulnerables\n147\n1548\n6.00\n937027.19\n0.069\n100\n0.94\n6.9\n\n\nAgresivo\nEspeculativo\n147\n61\n24.00\n118347.78\n0.009\n100\n0.12\n0.9\n\n\nAgresivo\nServicios - Altos\n147\n11\n14.27\n30106.43\n0.002\n100\n0.03\n0.2\n\n\nAgresivo\nEconómico - Bajos\n147\n181\n12.00\n0.00\n0.000\n100\n0.00\n0.0\n\n\nAgresivo\nServicios - Bajos\n147\n7\n13.00\n0.00\n0.000\n100\n0.00\n0.0\n\n\nConservador\nEconómico - Altos\n170\n1376\n10.08\n8103930.51\n0.710\n100\n8.10\n71.0\n\n\nConservador\nInstitucional\n170\n29\n9.52\n2108774.03\n0.185\n100\n2.11\n18.5\n\n\nConservador\nVulnerables\n170\n1548\n6.38\n1055605.26\n0.092\n100\n1.06\n9.2\n\n\nConservador\nEspeculativo\n170\n61\n24.00\n118347.78\n0.010\n100\n0.12\n1.0\n\n\nConservador\nServicios - Altos\n170\n11\n12.09\n26700.28\n0.002\n100\n0.03\n0.2\n\n\nConservador\nEconómico - Bajos\n170\n181\n9.07\n0.00\n0.000\n100\n0.00\n0.0\n\n\nConservador\nServicios - Bajos\n170\n7\n10.57\n0.00\n0.000\n100\n0.00\n0.0\n\n\nModerado\nEconómico - Altos\n2079\n1376\n12.00\n9629092.99\n0.770\n100\n9.63\n77.0\n\n\nModerado\nInstitucional\n2079\n29\n10.00\n1785788.84\n0.143\n100\n1.79\n14.3\n\n\nModerado\nVulnerables\n2079\n1548\n6.00\n937027.19\n0.075\n100\n0.94\n7.5\n\n\nModerado\nEspeculativo\n2079\n61\n26.00\n128210.10\n0.010\n100\n0.13\n1.0\n\n\nModerado\nServicios - Altos\n2079\n11\n14.00\n29159.02\n0.002\n100\n0.03\n0.2\n\n\nModerado\nEconómico - Bajos\n2079\n181\n11.00\n0.00\n0.000\n100\n0.00\n0.0\n\n\nModerado\nServicios - Bajos\n2079\n7\n12.00\n0.00\n0.000\n100\n0.00\n0.0"
+  }
+]
