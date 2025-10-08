@@ -1,0 +1,26 @@
+---
+title: "Uso del suelo de Anza"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    smooth-scroll: true
+execute:
+  echo: false
+  warning: false
+  message: false
+params:
+  cod_dane: "05044"
+  nombre: "Anza"
+lang: es
+---
+
+El propósito de este análisis es ofrecer una lectura del uso del suelo en el municipio de Anza, con el fin de integrarlo de manera más clara en la planeación del municipio. 
+
+Para ver un análisis detallado de la metodología [(ir)](https://jcmunozmora.github.io/estatutos_r1_pro/conflicto.html).
+
+A continuación se presenta los resultados para el valor promedio de uso y sobreutilización para cada municipio.
+
+![](img_r1/conf_porcentajes.png)
